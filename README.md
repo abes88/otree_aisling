@@ -147,7 +147,7 @@ class PlayerBot(Bot):
 - Program **bots** to simulate human players, can be used for multi-agent simulation.
 - Flexible API for **group re-matching**
 
-## Contact & support
+## Contact & Support
 
 [Help & discussion mailing list](https://groups.google.com/forum/#!forum/otree)
 
